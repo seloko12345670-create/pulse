@@ -1,0 +1,19 @@
+{
+  "name": "PULSE — Personal Trainer e Nutrição Inteligente",
+  "short_name": "PULSE",
+  "description": "Assistente pessoal de fitness, alimentação econômica e evolução física.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#FF2D8D",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/pulse-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

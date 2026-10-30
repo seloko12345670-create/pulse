@@ -1,0 +1,6 @@
+{
+  "name": "PULSE — Personal Trainer e Nutrição Inteligente",
+  "description": "Assistente pessoal de fitness, nutrição econômica baseada na tabela TACO/TBCA, planejamento de treinos e acompanhamento de evolução física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

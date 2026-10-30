@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="56" fill="#080808"/>
+  <rect x="8" y="8" width="240" height="240" rx="48" stroke="#FF2D8D" stroke-opacity="0.28" stroke-width="4"/>
+  <path d="M36 132H76L98 72L134 188L162 108L182 132H220" stroke="url(#pulse_grad)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="220" cy="132" r="10" fill="#FF65AD"/>
+  <defs>
+    <linearGradient id="pulse_grad" x1="36" y1="72" x2="220" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF2D8D"/>
+      <stop offset="1" stop-color="#FF65AD"/>
+    </linearGradient>
+  </defs>
+</svg>
