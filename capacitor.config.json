@@ -1,0 +1,9 @@
+{
+  "appId": "com.pulse.fitness",
+  "appName": "PULSE",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
